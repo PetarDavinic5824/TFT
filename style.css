@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap');
 html, body {
     margin: 0;
     padding: 0;
@@ -6,9 +6,9 @@ html, body {
   }
   
   body {
+    font-family: Jaro;
     display: flex;
     flex-direction: column;
-    font-family: Arial, sans-serif;
   }
 
   
